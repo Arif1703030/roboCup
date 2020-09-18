@@ -4,5 +4,6 @@ Orange
 Yellow
 Green
 blue
+indigo
 violet
 but rainbow are not unicorn
