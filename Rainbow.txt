@@ -1,9 +1,9 @@
-This is a Rainbow and Unicorn
-Red
-Orange
-Yellow
-Green
-blue
-violet
-and ponies
-but rainbow are not unicorn
+This is a Rainbow and Unicorn.
+Red,
+Orange,
+Yellow,
+Green,
+blue,
+violet,
+and ponies,
+but rainbow are not unicorn.
